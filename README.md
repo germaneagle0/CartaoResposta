@@ -22,7 +22,7 @@ Exemplo, digamos que é entregue esse template:
 <img src="https://user-images.githubusercontent.com/59073055/186457930-a47839cc-f1ad-47e4-8b81-5532d54142a0.png" width="50%">
 </div>
   
-Digamos que as respostas requisitadas eram as questão 1,2,..,12 e 25. Amarelo é resposta errada, vermelho representa a resposta que deveria ser a correta. Verde é acerto e azul é resposta repetida.
+Digamos que as respostas requisitadas eram as questão 1,2,..,12 e 25. Amarelo é resposta certa dado que tenha errado, vermelho representa a resposta que deveria ser a correta ou caso o aluno não tenha respondido, a resposta que deveria ser escolhida. Verde é acerto e azul é resposta repetida.
  
 <div>
 <img src="https://user-images.githubusercontent.com/59073055/186456719-10d4c9e7-7bf3-4902-b578-53c1e905e9b7.png" width="50%">
