@@ -18,7 +18,7 @@ obterPontosParaTemplate tem a função de dado uma foto de um template de uma fo
 LerOuInserirRespostas tem a função de dado uma folha de respostas e acesso a API com a estrutura do template retornar a sua nota, quais foram os acertos e os erros.
 
 
-<div style="display:flex;flex-direction:row">
+<div style="display:flex;flex-direction:column">
 <img src="https://user-images.githubusercontent.com/59073055/186457930-a47839cc-f1ad-47e4-8b81-5532d54142a0.png" width="50%">
 <img src="https://user-images.githubusercontent.com/59073055/186456719-10d4c9e7-7bf3-4902-b578-53c1e905e9b7.png" width="50%">
 </div>
