@@ -16,10 +16,15 @@ obterPontosParaTemplate tem a função de dado uma foto de um template de uma fo
 ![image](https://user-images.githubusercontent.com/59073055/186453274-ff70ee87-3f2b-4f44-84c2-acc288132bb0.png)
 
 LerOuInserirRespostas tem a função de dado uma folha de respostas e acesso a API com a estrutura do template retornar a sua nota, quais foram os acertos e os erros.
-
+Exemplo, digamos que é entregue esse template:
 
 <div>
 <img src="https://user-images.githubusercontent.com/59073055/186457930-a47839cc-f1ad-47e4-8b81-5532d54142a0.png" width="50%">
+</div>
+  
+Digamos que as respostas requisitadas eram as questão 1,2,..,12 e 25. Amarelo é resposta errada, vermelho representa a resposta que deveria ser a correta. Verde é acerto e azul é resposta repetida.
+ 
+<div>
 <img src="https://user-images.githubusercontent.com/59073055/186456719-10d4c9e7-7bf3-4902-b578-53c1e905e9b7.png" width="50%">
 </div>
 
